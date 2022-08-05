@@ -2,6 +2,7 @@
 Read fastq file, calculate qc statistics and generate plot.
 
 1. fastq_scores_stats.py - Python script to calculate average and std dev.
+
 Example usage -
 python fastq_scores_stats.py -f H4sample.fastq
 
