@@ -1,5 +1,5 @@
 # Fastq_stats_plot
-Read fastq file, calculate qc statistics and generate plot.
+Python scripts to read fastq file, calculate qc statistics and generate plot.
 
 1. fastq_scores_stats.py - Python script to calculate average and std dev.
 
